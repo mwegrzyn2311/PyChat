@@ -4,7 +4,7 @@ Simple chat app where clients comunicate with the server (via tcp or udp) or eac
 
 #### How to use
 
-Launch server.py first and then launch clients, when clients choose their nick, they will be connected with the server and since then they can send messages or images to each other.
+Launch server.py first and then launch clients (by clientSetupWindow.py), when clients choose their nick, they will be connected with the server and since then they can send messages or images to each other.
 
 #### Info
 
